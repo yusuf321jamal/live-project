@@ -1,0 +1,39 @@
+################# PROJECT GUIDE ################
+     Author: Yusuf Jamal
+     Mobile: 9336725188
+     Publish Date: 03-11-2024
+################# ABOUT PROJECT #################
+     React E-commerce Shopping Applicaton (cash on Delivery)
+     Technologies
+        FRONTEND
+        1. HTML
+        2. Css
+        3. Bootstrap 5 
+        4. React(JSX)
+        BACKEND
+        1. JSON-SERVER (mock-api)
+        
+###### How to setup and run the project #####
+  1. Download React project source code: https://github.com/yusuf321jamal/live-project/archive/refs/heads/main.zip
+  2. Download Api source code :
+
+Note : Steps to setup the project 
+  1. Download Source code from the above url
+  2. unzip/extract both the folders
+  3. install node.js 18+ version in your system
+  4. install React development environment using below command
+        npm install -g create-react-app 
+  5. install json sever to run api
+       npm install -g json-server 
+  6. start the json sever using below command 
+        a. open cmd in api folder (that u have extracted)
+              followed by => json-server --watch data.json --port 1234
+
+  7. Start react development server 
+        a. open cmd in react project folder that is project1 or my-app and run this command npm start
+
+        Note: You can browse: http://localhost:3000
+
+        Thanks for your time to see my project .
+        I hope for positive response from your side 
+        Yusuf jamal (9336725188)
